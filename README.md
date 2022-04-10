@@ -1,4 +1,4 @@
-# Into to React world: Hooks, Saga, Regux, RestAPI, Authentication, NextJS
+# Into to React world: Hooks, Saga, Regux, RestAPI, Authentication
 ### React Side Effects, Reducers, Contex API
 ### React wih Redux
 ### React and sending HTTP Requests
